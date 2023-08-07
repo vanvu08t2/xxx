@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Issue
+    about: Issue template
+    url: https://github.com/vanvu08t2/issue-automation-sample/issues/new?template=issue.md&projects=vanvu08t2/issue-automation-sample/1&labels=enhancement
+  - name: UI
+    about: UI template
+    url: https://github.com/vanvu08t2/issue-automation-sample/issues/new?template=ui_ux.md&projects=vanvu08t2/issue-automation-sample/1&labels=enhancement
